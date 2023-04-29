@@ -6,17 +6,17 @@ The Library Management System is a console-based application developed in C++ th
 User Authentication: The system provides a login option for both admins and students, protected by a password.
 
 # Admin Functions:
-  a. Add a book to the system: The admin can add new books to the library.
-  b. Edit the details of the book: The admin can edit the title and author of a book using its ISBN number.
-  c. View the status of books: The admin can view the list and availability of books in the library.
-  d. View enrolled students: The admin can view the list of students registered in the system, sorted by their roll numbers.
-  e. View student balance: The admin can view the account balance of a specific student.
+  1. Add a book to the system: The admin can add new books to the library.
+  2. Edit the details of the book: The admin can edit the title and author of a book using its ISBN number.
+  3. View the status of books: The admin can view the list and availability of books in the library.
+  4. View enrolled students: The admin can view the list of students registered in the system, sorted by their roll numbers.
+  5. View student balance: The admin can view the account balance of a specific student.
 
 # Student Functions:
-  a. Create an account: A new student can register by providing their roll number, name, and initial deposit.
-  b. View balance: Students can view their account balance.
-  c. Deposit amount: Students can deposit money into their accounts.
-  d. Issue a book: Students can issue books from the list of available books.
+  1. Create an account: A new student can register by providing their roll number, name, and initial deposit.
+  2. View balance: Students can view their account balance.
+  3. Deposit amount: Students can deposit money into their accounts.
+  4. Issue a book: Students can issue books from the list of available books.
 
 Account management: The system supports up to 20 students, who pay $20 for account opening and $30 as a security deposit. Students can issue any book for $2 for a 10-day period. Fines are imposed for late returns as per the specified rules.
 
